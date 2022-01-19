@@ -1,0 +1,13 @@
+name='czarina'
+
+height_m=2
+
+weight_kg=90
+
+
+
+bmi = weight_kg / (height_m * height_m)
+
+print_(bmi)
+
+print_(bmi)
